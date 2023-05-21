@@ -1,0 +1,17 @@
+OpenWater
+EvergreenNeedleleaf
+EvergreenBroadleaf
+DeciduousNeedleleaf
+DeciduousBroadleaf
+MixedForest
+ClosedShrub
+OpenShrub
+Savannas
+WoodySavannas
+Grasslands
+PermanentWetlands
+Cropland
+Urban
+CroplandNaturalVegMosaic
+SnowIce
+Barren
