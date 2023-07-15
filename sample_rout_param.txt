@@ -1,0 +1,27 @@
+# INPUT FILE FOR THE PANDOH BASIN
+# FLOW DIRECTION FILE
+/Volumes/HD3/SWOTDA/Calibration/Pandoh/pandoh_fdir.asc
+# FLOW VELOCITY FILE
+.false.
+1.50
+# FLOW DIFFUSION FILE
+.false.
+800
+# XMASK FILE
+.false.
+12500
+# FRACTION FILE
+.true.
+/Volumes/HD3/SWOTDA/Calibration/Pandoh/pandoh_fract.asc
+# STATION FILE
+/Volumes/HD3/SWOTDA/Calibration/Pandoh/pandoh_stnloc.txt
+# PATH OF INPUT FILES AND PRECISION
+/Volumes/HD3/SWOTDA/Calibration/Pandoh2/out/rout_in_4/fluxes_
+5
+# PATH OF OUTPUT FILES
+/Volumes/HD3/SWOTDA/Calibration/Pandoh2/out/rout_out_4/
+# MONTHS TO PROCESS
+2015 01 2015 12
+2015 01 2015 12
+# UNIT HYDROGRAPH FILE
+/Volumes/HD3/SWOTDA/Software/route_1.0/uh_monthly.txt
